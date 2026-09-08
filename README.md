@@ -14,8 +14,3 @@ An embedded systems simulation of a smart city street lighting network using a P
 *   **Automated Actuation:** Powers a network of 7 street lamps (LEDs) simultaneously via PORTB when the ADC value crosses the darkness threshold.
 *   **Individual Fault Detection:** Monitors 7 independent logic states on PORTD to simulate bulb integrity. 
 *   **UART Telemetry:** Streams real-time system status and specific lamp failure alerts (e.g., `---> Lamp 3 is broken`) to a central Virtual Terminal at 9600 baud.
-
-## 🚀 How to Run the Simulation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Smart_Streetlight_fault_detection_system.git](https://github.com/YOUR_USERNAME/Smart_Streetlight_fault_detection_system.git)
