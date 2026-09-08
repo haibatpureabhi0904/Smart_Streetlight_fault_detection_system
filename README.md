@@ -1,6 +1,4 @@
-# Smart_Streetlight_fault_detection_system 🌃
-
-# Automatic Street Light Controller with Fault Indication (PIC18F4520)
+# Smart Street Light Controller with Fault Indication (PIC18F4520) 🌃
 
 An embedded C firmware implementation for the Microchip PIC18F4520 microcontroller designed to automate a 7-lamp street lighting system based on ambient light, with integrated real-time fault detection and UART serial diagnostics.
 Designed and tested for PIC18 microcontrollers with complete schematic support for Proteus VSM simulation using the Microchip C18 compiler.
